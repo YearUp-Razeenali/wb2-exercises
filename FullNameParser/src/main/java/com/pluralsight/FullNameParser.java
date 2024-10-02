@@ -22,7 +22,5 @@ public class FullNameParser {
            System.out.println("Middle name: " + names[1] );
            System.out.println("Last name: " + names[2]);
        }
-
-
     }
 }
