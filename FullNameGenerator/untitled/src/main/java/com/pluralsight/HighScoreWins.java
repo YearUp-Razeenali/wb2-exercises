@@ -32,4 +32,7 @@ public class HighScoreWins {
         return scanner.nextLine();
     }
 
+
+//    String[] gameScore = askForString("Please enter a game score: ").split("[:|]");
+//    System.out.println("Winner: " + (Integer.valueOf(gameScore[2]) > Integer.valueOf(gameScore[3]) ?    gameScore[0] : gameScore[1]));
 }
